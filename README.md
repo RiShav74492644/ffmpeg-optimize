@@ -1,9 +1,9 @@
 # ffmpeg-optimize
 
-`Add ffmpeg`
+## Add ffmpeg
 
-```sudo apt install ffmpeg```
+`sudo apt install ffmpeg`
 
-`Add gem streamio-ffmpeg`
+## Add gem streamio-ffmpeg
 
-```gem install streamio-ffmpeg```
+`gem install streamio-ffmpeg`
